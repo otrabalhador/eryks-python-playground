@@ -1,0 +1,9 @@
+O que eu quero fazer
+Criar uma classe Animal
+  Animal terá:
+    Peso
+    Tamanho
+
+Criar uma class Cachorro que herda de animal
+  Cachorro haverá:
+    Raça
