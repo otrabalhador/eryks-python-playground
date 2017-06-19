@@ -1,7 +1,7 @@
 import datetime
 
 
-class LastWeekdayPattern(object):
+class LastWeekdayInMonthPattern(object):
     def __init__(self, weekday):
         self.weekday = weekday
 
